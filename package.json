@@ -1,0 +1,27 @@
+{
+  "name": "practical_4-product_management_apis_express",
+  "version": "1.0.0",
+  "description": "practical_4-product_management_apis_express",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "node",
+    "api-server",
+    "express",
+    "starter",
+    "kit"
+  ],
+  "author": "bhavy savaj",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.12"
+  }
+}

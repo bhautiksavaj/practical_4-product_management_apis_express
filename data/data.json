@@ -1,0 +1,53 @@
+{
+  "product": [
+    {
+      "title": "hp laptop",
+      "price": "String",
+      "category": "Array of String",
+      "companyId": "1637999233138",
+      "sellerId": ["1638000756123", "1638002380429"],
+      "id": "1637998008209"
+    },
+    {
+      "title": "laptop",
+      "price": "String",
+      "category": "Array of String",
+      "companyId": "1637999243664",
+      "sellerId": ["1638002370298"],
+      "id": "1637998086247"
+    }
+  ],
+  "company": [
+    {
+      "name": "bhavya enterprise",
+      "product_ids": ["1637998008209", "1637998086247"],
+      "id": "1637999233138"
+    },
+    {
+      "name": "dell",
+      "product_ids": ["1637998008209", "1637998086247"],
+      "id": "1637999243664"
+    },
+    {
+      "name": "demo enterprise",
+      "id": "1638021651530"
+    }
+  ],
+  "seller": [
+    {
+      "name": "bhavya",
+      "product_ids": ["1637998008209", "1637998086247"],
+      "id": "1638000756123"
+    },
+    {
+      "name": "parth",
+      "product_ids": ["1637998008209", "1637998086247"],
+      "id": "1638002370298"
+    },
+    {
+      "name": "pareshbhai",
+      "product_ids": ["1637998008209", "1637998086247"],
+      "id": "1638002380429"
+    }
+  ]
+}
